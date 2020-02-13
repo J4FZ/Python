@@ -2,8 +2,6 @@ To aid in directory structure all datasets and their results have been split int
 
 04_dataset_results_1 // 04_dataset_results_2 // 04_dataset_results_3 all contain the following:
 
-## = filename in each directory (e.g. 'final' for '04_dataset_results_1')
-
 ##_age_ritp 		: Shows age compared to revealing info amounts.
 ##_agep 		: Shows age distribution percentage.
 ##_conf_int_screenshot 	: Shows confidence interval outputs.
